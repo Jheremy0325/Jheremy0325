@@ -1,6 +1,6 @@
 # 👋 Hola, soy Jheremy Ponte Martel  
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ## 🎓 Estudiante de Ingeniería de Sistemas e Informática  
 
@@ -11,13 +11,6 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-## 🎧 Mi canción recomendada  
-
-[![Spotify Song](https://i.scdn.co/image/ab67616d0000b2732a1df6e702b5f0b04cbf7f2b)](https://open.spotify.com/track/62JWbd7wXwfHTVOA8lSoSF?si=f0a00bcc9e454f72)  
-
-[![Spotify](https://img.shields.io/badge/Spotify-Reproducir-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/62JWbd7wXwfHTVOA8lSoSF?si=f0a00bcc9e454f72)  
 
 ### 📬 Contáctame  
 
